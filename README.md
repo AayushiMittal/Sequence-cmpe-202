@@ -12,7 +12,7 @@ D:\Cmpe 202\SequencePersonalproject>java -jar SeqParser.jar uml-sequence-test se
 
 
 
-for eg: -------------path---------\<foldername>java -jar<jar file>--<foldername for sequence> <Imagename>
+for eg: -------------path---------\<foldername>java -jar < jar file>--< foldername for sequence> < Imagename>
 
 download seqParser.jar and all files in a folder and run in command line with the path of folder and command as given above.
 
