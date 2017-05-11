@@ -3,7 +3,10 @@
 Mac/windows OS:
 1.	Unzip the folder and cd into the Sequenceparser folder.
 2.	 Run the jar file by passing the java source file path and output filename in cmd.
-For example : D:\Cmpe 202\SequencePersonalproject>java -jar SeqParser.jar uml-sequence-test sequencetestimg
+
+For example :
+
+D:\Cmpe 202\SequencePersonalproject>java -jar SeqParser.jar uml-sequence-test sequencetestimg
 
 
 
